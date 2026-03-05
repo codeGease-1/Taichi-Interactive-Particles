@@ -1,7 +1,7 @@
 [project]
-name = "cg-lab"
+name = "Taichi-Interactive-Particles"
 version = "0.1.0"
-description = "Add your description here"
+description = "基于 Taichi 引擎的 GPU 加速万有引力粒子仿真"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
