@@ -7,7 +7,6 @@
 ## 🎥 运行效果
 
 ![Project Demo](./assets/demo.gif)
-> **提示**：你可以使用 [ScreenToGif](https://www.screentogif.com/) 等工具录制运行画面，并将生成的 `.gif` 文件放入项目的 `assets/` 文件夹中，然后在此处引用。
 
 ---
 
@@ -60,3 +59,4 @@ $$\vec{a} = k \cdot (\mathbf{P}_{mouse} - \mathbf{P}_i)$$
   
 * **更新位置**：
     $$\mathbf{P}_{t+1} = \mathbf{P}_t + \mathbf{v}_{t+1} \cdot \Delta t$$
+
